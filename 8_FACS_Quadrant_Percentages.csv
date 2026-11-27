@@ -1,0 +1,4 @@
+"CellState","Total","Q1_pct","Q2_pct","Q3_pct","Q4_pct"
+"Proliferating",200,"Q1: 0.0%","Q2: 94.0%","Q3: 0.0%","Q4: 6.0%"
+"Early_Senescent",200,"Q1: 76.0%","Q2: 24.0%","Q3: 0.0%","Q4: 0.0%"
+"SASP_Senescent",200,"Q1: 10.0%","Q2: 90.0%","Q3: 0.0%","Q4: 0.0%"

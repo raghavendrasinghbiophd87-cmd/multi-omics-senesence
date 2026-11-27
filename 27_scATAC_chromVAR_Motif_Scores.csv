@@ -1,0 +1,8 @@
+"Motif","Proliferating","Early_Senescent","SASP_Senescent"
+"E2F1 (Cell Cycle)",2.4,-1.8,-2.3
+"MYC (Proliferation)",2.1,-1.5,-2.1
+"TP53 (DDR Arrest)",-1.6,2.3,2
+"ETS1 / CEBPB",-1.2,1.1,2.2
+"STAT3 (TTCCNGGAA)",-1.5,0.4,2.7
+"NF-kB RELA (GGGRNNYYCC)",-1.7,0.6,2.9
+"IRF3 / ISRE (cGAS)",-1.3,0.2,2.5
