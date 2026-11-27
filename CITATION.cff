@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Multi-Omics & scRNA-seq Analysis of Cellular Senescence"
+message: "If you use this software or dataset, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Singh"
+    given-names: "Raghavendra"
+    orcid: "https://orcid.org"
+doi: 10.5281/zenodo.24591662
+version: 1.0.0.1
+date-released: 2026-11-27
+url: "https://github.com"
